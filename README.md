@@ -8,3 +8,5 @@ This is simply a conversion from the original for markdown, split in several
 files.
 
 I think this makes it easier to go through and collaborate.
+
+Start by [the table of contents](zshguide.md).
