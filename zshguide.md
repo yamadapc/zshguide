@@ -145,7 +145,7 @@ Table of Contents
 
 [3.7.5: Multios](chapter3.md#375-multios)
 
-### [3.8: Shell syntax: loops, (chapter3.md#38-shell-syntax-loops,-(sub)shells-and-so-on)
+### [3.8: Shell syntax: loops, (sub)shells and so on](chapter3.md#38-shell-syntax-loops-subshells-and-so-on)
 
 [3.8.1: Logical command connectors](chapter3.md#381-logical-command-connectors)
 
@@ -186,7 +186,7 @@ Table of Contents
 
 [4.3.2: The minibuffer and extended commands](chapter4.md#432-the-minibuffer-and-extended-commands)
 
-[4.3.3: Prefix (chapter4.md#433-prefix-(digit)-arguments)
+[4.3.3: Prefix (digit) arguments](chapter4.md#433-prefix-digit-arguments)
 
 [4.3.4: Words, regions and marks](chapter4.md#434-words,-regions-and-marks)
 
